@@ -1,2 +1,8 @@
-# alagba
-Detección de nidos de tortugas usando Deep Learning
+# Alagba
+
+De las 7 especies de tortugas en el mundo, 6 están en peligro de extinción. México es hogar de 5 de estas especies, las cuales están protegidas por el gobierno. Sin embargo, estos animales son víctimas de muchas amenazas, entre las más cruciales, es la caza ilegal y comercio de sus huevos. Hay muchos programas desarrollados relacionados a la prevención de este tipo de delitos, entre los que se incluye, la vigilancia de las playas durante la temporada de anidación, pero el monitoreo de la larga extensión de playas en nuestro país es una tarea muy exhaustiva. Para poder solucionar este problema, este proyecto propone el uso de drones para detectar rastros de tortugas marinas a lo largo de la playa haciendo uso de técnicas de aprendizaje automático y algoritmos de visión por computadora. 
+
+Sin embargo, la detección de rastros de tortuga es una tarea muy compleja debido a la similitud entre un rastro y el área que lo rodea, por lo tanto, este proyecto explora el uso del aprendizaje profundo, particularmente haciendo uso de arquitecturas de Redes Neuronales Convolucionales que han tenido muchos resultados exitosos en diferentes tareas referente a la clasificación de imágenes y localización.
+
+Este fue mi proyecto de tesis de maestría en la Universidad de Nottingham [publicado aquí](https://www.slideshare.net/RicardoSnchezCastill/automatic-sea-turtle-nest-detection-via-deep-learning). Fueron las bases para comenzar a desarrollar un prototipo que sea utilizado en la vida real, pero aún queda mucho trabajo que hacer, se abre este proyecto a la comunidad para quien deseé ser parte de este proyecto y colaborar con esta tarea.
+
