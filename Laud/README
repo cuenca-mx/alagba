@@ -1,0 +1,8 @@
+# Laud
+
+Este es la Intefaz de Usuario utilizada por los operadores para detectar los rastros, cumple con tres tareas:
+
+- Recibir el streaming del video del drone.
+- Permitir al usuario etiquetar un rastro de tortuga y hacer un tracking para posteriormente entrenar el algoritmo con los datos obtenidos.
+- Cuando el algoritmo ha sido entrenado, detectar un rastro de tortuga, etiquetarlo y obtener la ubicación GPS del drone para extraer la información.
+
